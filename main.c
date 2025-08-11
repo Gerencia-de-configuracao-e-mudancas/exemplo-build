@@ -2,7 +2,7 @@
 #include<stdlib.h>
 
 int main(){
-    printf("Hello World")
-    float numero = 10/0;
-    salkdjlasjdkasld
+    printf("Hello World");
+    float numero = 10/2;
+    printf(numero);
 }
